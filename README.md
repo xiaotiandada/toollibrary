@@ -11,6 +11,8 @@ addEvent(dom, "mousewheel", function(event) {
 
 mousewheel.js 滚动方向判断插件
 
+小栗子 [demo](https://github.com/xiaotiandada/Case/tree/master/fullscreenscroll)
+
 > 使用方法
 ``` bash
  dome.one('mousewheel',mouse_);
