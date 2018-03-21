@@ -15,5 +15,13 @@ mousewheel.js 滚动方向判断插件
 
 > 使用方法
 ``` bash
- dome.one('mousewheel',mouse_);
+dom.one('mousewheel', mouse_)
+
+function mouse_(event) {
+    if (event.deltaY < 0) {
+        down()
+    } else {
+        up()
+    }
+}
 ```
