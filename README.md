@@ -11,7 +11,7 @@ addEvent(dom, "mousewheel", function(event) {
 
 mousewheel.js 滚动方向判断插件
 
-小栗子 [demo](https://github.com/xiaotiandada/Case/tree/master/fullscreenscroll)
+小栗子 [demo仓库](https://github.com/xiaotiandada/Case/tree/master/fullscreenscroll) [demo演示](https://xiaotiandada.github.io/Case/fullscreenscroll/)
 
 > 使用方法
 ``` bash
